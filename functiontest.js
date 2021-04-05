@@ -56,4 +56,6 @@ var returnName7 = () => "Hello World";
 let result4 = returnName7();
 console.log(result4)
 
-haha 
+for(t = 3; t < 5; t++){
+    console.log(t)
+}
