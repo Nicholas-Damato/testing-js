@@ -50,3 +50,8 @@ let result3 = returnFalse();
 console.log(result3)
 
 // ^^^^^^^^^^^^ One line arrow function where the return value is IMPLIED ^^^^^^^^^^^^^
+
+
+var returnName7 = () => "Hello World";
+let result4 = returnName7();
+console.log(result4)
